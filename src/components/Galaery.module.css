@@ -1,0 +1,13 @@
+.galleryimages{
+
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.imgstyle{
+border-radius: 5px;
+box-shadow: 3px 6px 10px black;
+    margin: 10px;
+}
